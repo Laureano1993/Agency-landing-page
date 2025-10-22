@@ -437,6 +437,7 @@ header .title{
         width: auto;
         padding: 1rem;
         background-color: transparent;
+        opacity: 1;
     }
 
     .nav__links ul{
